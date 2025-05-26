@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to my GitHub
 
-<!--
-**PastasciuttaEtonno/PastasciuttaEtonno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Ivan**, a technology-oriented programmer, interested also in Information Systems and Networks. I enjoy working on projects which combine **new frontend development** with a **stable backend foundation**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app//api/top-langs/?username=PastasciuttaEtonno&hide_border=true&layout=compact&show_icons=true&theme=radical&hide_title=true")
+
+## Skillset Showcase / Technologies used
+
+![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,postgres,git,html,css,linux&perline=10)
+
+## Connect with me  
+<div align="left">
+<a href="https://linkedin.com/in/frascalise" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
