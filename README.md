@@ -1,6 +1,6 @@
 # Welcome to my GitHub
 
-I am **Ivan**, a technology-oriented programmer, interested also in Information Systems and Networks. I enjoy working on projects which combine **new frontend development** with a **stable backend foundation**.
+I am **Ivan**, a technology-oriented programmer, interested also in Information Systems and Networks.
 
 
 ## GitHub Stats
