@@ -1,6 +1,6 @@
 # Welcome to my GitHub
 
-I am **Ivan**, a technology-oriented programmer, interested also in Information Systems and Networks.
+I am **Ivan**!
 
 
 ## GitHub Stats
