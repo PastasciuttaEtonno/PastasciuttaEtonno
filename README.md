@@ -5,7 +5,7 @@ I am **Ivan**!
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app//api/top-langs/?username=PastasciuttaEtonno&hide_border=true&layout=compact&show_icons=true&theme=radical&hide_title=true")
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PastasciuttaEtonno)
 
 ## Skillset Showcase / Technologies used
 
