@@ -9,7 +9,7 @@ I am **Ivan**!
 
 ## Skillset Showcase / Technologies used
 
-![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,postgres,git,html,css,linux&perline=10)
+![My Skills](https://skillicons.dev/icons?i=python,js,ts,aws,docker,postgres,git,html,css,linux&perline=10)
 
 ## Connect with me  
 <div align="left">
